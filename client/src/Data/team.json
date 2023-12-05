@@ -1,0 +1,25 @@
+{
+    "team": [ 
+      {
+        "name": "KamCh",
+        "role": "Chief Meme Officer",
+        "image_src": "https://cdn-icons-png.flaticon.com/512/2202/2202112.png"
+      },
+      {
+        "name": "Moufees",
+        "role": "Master of Snack Acquisitions",
+        "image_src": "https://cdn-icons-png.flaticon.com/512/2202/2202112.png"
+      },
+      {
+        "name": "AbouZel",
+        "role": "Computational Wizard",
+        "image_src": "https://cdn-icons-png.flaticon.com/512/2202/2202112.png"
+      },
+      {
+        "name": "MohaB",
+        "role": "Head of Coffee Consumption",
+        "image_src": "https://cdn-icons-png.flaticon.com/512/2202/2202112.png"
+      }
+    ]
+  }
+  

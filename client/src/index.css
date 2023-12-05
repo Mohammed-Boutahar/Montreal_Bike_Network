@@ -1,0 +1,40 @@
+@import "~@fortawesome/fontawesome-free/css/all.css";
+@tailwind base;
+
+@layer base {
+  html {
+    @apply text-neutral-800;
+  }
+  html.dark {
+    @apply text-neutral-50;
+    @apply bg-neutral-800;
+  }
+}
+
+@tailwind components;
+@tailwind utilities;
+
+.active-nav-link {
+  color: black;
+  text-decoration: underline;
+}
+
+.leaflet-container{
+  height: 65vh;
+  width: 65vw;
+}
+
+.map-container {
+  height: 400px;
+}
+
+.submenu {
+  display: none;
+  position: absolute;
+}
+
+li:hover .submenu {
+  display: block;
+}
+
+
